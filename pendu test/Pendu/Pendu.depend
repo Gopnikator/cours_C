@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1510870120 source:c:\users\alex\documents\c\pendu test\pendu\fichier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fichier.h"
+
+1510867605 c:\users\alex\documents\c\pendu test\pendu\fichier.h
+
+1510905092 source:c:\users\alex\documents\c\pendu test\pendu\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fichier.h"
+

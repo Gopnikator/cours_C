@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1513106468 source:f:\cours\dut\c\td8\td8_arnaud_besnard\fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	"fichiers.h"
+	<string.h>
+
+1513100932 f:\cours\dut\c\td8\td8_arnaud_besnard\fichiers.h
+
+1513105756 source:f:\cours\dut\c\td8\td8_arnaud_besnard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fichiers.h"
+	<time.h>
+
+1513113800 source:c:\users\alex\desktop\td8_arnaud_besnard\fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	"fichiers.h"
+	<string.h>
+
+1513100932 c:\users\alex\desktop\td8_arnaud_besnard\fichiers.h
+
+1513113136 source:c:\users\alex\desktop\td8_arnaud_besnard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fichiers.h"
+	<time.h>
+
